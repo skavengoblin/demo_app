@@ -1,0 +1,2 @@
+module ContactUserAssocsHelper
+end

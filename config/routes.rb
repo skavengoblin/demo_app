@@ -1,4 +1,13 @@
 DemoApp::Application.routes.draw do
+  resources :contact_user_assocs
+
+
+  resources :contacts
+
+
+  resources :users
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
